@@ -1,0 +1,8 @@
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude unnecessary files
+*.log
+.DS_Store
